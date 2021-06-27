@@ -1,2 +1,2 @@
-# Task-Tracker
-Basic task tracker with vue.js
+# User-Generator
+Basic user generation with vue.js
